@@ -1,7 +1,7 @@
 # ICD9-and-ICD10-Programs
 This repo contains my ICD-9-CM and ICD-10-CM SAS programs for drug poisoning surveilliance.
 
-#Resources Used to Create ICD-9-CM and ICD-10-CM Drug Poisoning Surveilliance SAS Programs
+# Public Resources Used to Create ICD-9-CM and ICD-10-CM Drug Poisoning Surveilliance SAS Programs
 
 These programs are based on recommended surveilliance indicators for public health state health departments. For more information on using hospital discharge claims and emergency department claims data for public healt surveilliance, please see the following links:
 
@@ -16,6 +16,8 @@ https://cdn.ymaws.com/www.safestates.org/resource/resmgr/imported/ISW7%20Full%20
 
 The Transition from ICD-9-CM to ICD-10-CM: Guidance for Analysis and Reporting of Injuries by Mechanism and Intent
 https://cdn.ymaws.com/www.safestates.org/resource/resmgr/isw9/ISW9_FINAL_Report.pdf
+
+# Published Peer-Reviewed Resources Used to Create ICD-9-CM and ICD-10-CM Drug Poisoning Surveilliance SAS Programs
 
 Slavova S, Bunn TL, Talbert J. Drug Overdose Surveillance Using Hospital Discharge Data. Public Health Reports. 2014;129(5):437-445. Avalible at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4116371/
 
